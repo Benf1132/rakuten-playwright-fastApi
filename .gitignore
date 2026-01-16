@@ -2,3 +2,5 @@
 .env
 *.json
 output/
+__pycache__/
+*.pyc
